@@ -3,8 +3,9 @@
 }
 
 .registration-form {
-	width: 900px;
-  margin: auto;
+	width: 120vh;
+    margin: auto;
+    padding-right: 5vh;
 }
 
 .title {
